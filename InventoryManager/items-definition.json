@@ -1,0 +1,219 @@
+﻿[
+  {
+    "id": 1,
+    "name": "Vinyl Frisbee",
+    "stack-max": 1
+  },
+  {
+    "id": 2,
+    "name": "Super Conker",
+    "stack-max": 1
+  },
+  {
+    "id": 3,
+    "name": "Golf Club",
+    "stack-max": 1
+  },
+  {
+    "id": 4,
+    "name": "Laser Ring",
+    "stack-max": 1
+  },
+  {
+    "id": 5,
+    "name": "Super Size Suit",
+    "stack-max": 1
+  },
+  {
+    "id": 6,
+    "name": "The Foot",
+    "stack-max": 1
+  },
+  {
+    "id": 7,
+    "name": "Bow",
+    "stack-max": 1
+  },
+  {
+    "id": 9,
+    "name": "Bowling Ball",
+    "stack-max": 1
+  },
+  {
+    "id": 11,
+    "name": "Drone",
+    "stack-max": 1
+  },
+  {
+    "id": 20,
+    "name": "Popper",
+    "stack-max": 1
+  },
+  {
+    "id": 21,
+    "name": "Torch",
+    "stack-max": 1
+  },
+  {
+    "id": 22,
+    "name": "Watch",
+    "stack-max": 1
+  },
+  {
+    "id": 23,
+    "name": "Travel Kazoo",
+    "stack-max": 1
+  },
+  {
+    "id": 40,
+    "name": "Bomb",
+    "stack-max": 5
+  },
+  {
+    "id": 41,
+    "name": "Ether Bomb",
+    "stack-max": 5
+  },
+  {
+    "id": 42,
+    "name": "Poison Bomb",
+    "stack-max": 5
+  },
+  {
+    "id": 43,
+    "name": "Fire Bomb",
+    "stack-max": 5
+  },
+  {
+    "id": 50,
+    "name": "Milk"
+  },
+  {
+    "id": 51,
+    "name": "Sushi"
+  },
+  {
+    "id": 52,
+    "name": "Burger"
+  },
+  {
+    "id": 53,
+    "name": "Hot Dog"
+  },
+  {
+    "id": 54,
+    "name": "Chocolate Bar"
+  },
+  {
+    "id": 55,
+    "name": "Doughnut"
+  },
+  {
+    "id": 56,
+    "name": "Cookie"
+  },
+  {
+    "id": 70,
+    "name": "Coffee"
+  },
+  {
+    "id": 71,
+    "name": "Medicine"
+  },
+  {
+    "id": 73,
+    "name": "Celestial Essence"
+  },
+  {
+    "id": 80,
+    "name": "Toilet Rolls"
+  },
+  {
+    "id": 86,
+    "name": "Pillow"
+  },
+  {
+    "id": 95,
+    "name": "Teddy Bear",
+    "stack-max": 1,
+    "comment": "Do not use, quest item."
+  },
+  {
+    "id": 97,
+    "name": "Telescope",
+    "stack-max": 1,
+    "comment": "Do not use, quest item."
+  },
+  {
+    "id": 105,
+    "name": "Siren Orb (pink)",
+    "stack-max": 1
+  },
+  {
+    "id": 106,
+    "name": "Siren Orb (blue)",
+    "stack-max": 1
+  },
+  {
+    "id": 107,
+    "name": "Siren Orb (green)",
+    "stack-max": 1
+  },
+  {
+    "id": 108,
+    "name": "Siren Orb (yellow)",
+    "stack-max": 1
+  },
+  {
+    "id": 109,
+    "name": "Siren Orb (red)",
+    "stack-max": 1
+  },
+  {
+    "id": 110,
+    "name": "Icon",
+    "stack-max": 1
+  },
+  {
+    "id": 111,
+    "name": "Toy Upgrade",
+    "stack-max": 1
+  },
+  {
+    "id": 112,
+    "name": "Flaming Infusion",
+    "stack-max": 1
+  },
+  {
+    "id": 113,
+    "name": "Ether Infusion",
+    "stack-max": 1
+  },
+  {
+    "id": 114,
+    "name": "Poison Infusion",
+    "stack-max": 1
+  },
+  {
+    "id": 115,
+    "name": "Hero Sword",
+    "stack-max": 1,
+    "comment": "Do not use, it is not destined to be in the inventory directly."
+  },
+  {
+    "id": 116,
+    "name": "Iron Nugget"
+  },
+  {
+    "id": 117,
+    "name": "Moebius Coal"
+  },
+  {
+    "id": 118,
+    "name": "Burnish Stone"
+  },
+  {
+    "id": 119,
+    "name": "Nova Stone"
+  }
+]
