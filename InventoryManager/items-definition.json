@@ -50,6 +50,11 @@
     "stack-max": 1
   },
   {
+    "id": 12,
+    "name": "Fate's ring",
+    "stack-max": 1
+  },
+  {
     "id": 20,
     "name": "Popper",
     "stack-max": 1
@@ -136,6 +141,10 @@
   {
     "id": 80,
     "name": "Toilet Rolls"
+  },
+  {
+    "id": 85,
+    "name": "Glowsticks"
   },
   {
     "id": 86,
