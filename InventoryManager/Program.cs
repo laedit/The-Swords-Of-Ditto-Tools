@@ -52,7 +52,9 @@ namespace InventoryManager
             WriteLine("# The application does not work well           #", ConsoleColor.DarkYellow);
             WriteLine("# with Steam Cloud (or any other cloud saves). #", ConsoleColor.DarkYellow);
             WriteLine("# It is advised to deactivate it to minimize   #", ConsoleColor.DarkYellow);
-            WriteLine("# the risk of losing your save (or your gold). #", ConsoleColor.DarkYellow);
+            WriteLine("################################################", ConsoleColor.DarkYellow);
+            WriteLine("# To save your modifications, exit the         #", ConsoleColor.DarkYellow);
+            WriteLine("# application through the \"Exit\" (0) command.#", ConsoleColor.DarkYellow);
             WriteLine("################################################", ConsoleColor.DarkYellow);
         }
 
